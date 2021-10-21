@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Gama.Fastfood/1.0.0": {
+        "dependencies": {
+          "Gama.Locadora.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Gama.Fastfood.dll": {}
+        }
+      },
+      "Gama.Locadora.Shared/1.0.0": {
+        "runtime": {
+          "Gama.Locadora.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gama.Fastfood/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gama.Locadora.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

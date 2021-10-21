@@ -1,0 +1,46 @@
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\Gama.Locadora.Comercial.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\Gama.Locadora.Shared.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\Gama.Locadora.Comercial.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\Gama.Locadora.Shared.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\Gama.Fastfood.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\ConsoleApp\bin\Debug\net5.0\Gama.Fastfood.pdb
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\Gama.ATM.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\Gama.ATM.Shared.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\Gama.ATM.pdb
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\Gama.ATM.Shared.pdb
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\Gama.ATM.Infra.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\ConsoleApp\bin\Debug\net5.0\Gama.ATM.Infra.pdb

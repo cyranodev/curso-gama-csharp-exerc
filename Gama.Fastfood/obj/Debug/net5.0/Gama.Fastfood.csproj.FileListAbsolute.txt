@@ -1,0 +1,15 @@
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.csproj.AssemblyReference.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.AssemblyInfoInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.AssemblyInfo.cs
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.csproj.CoreCompileInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\bin\Debug\net5.0\Gama.Fastfood.deps.json
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\bin\Debug\net5.0\Gama.Fastfood.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\bin\Debug\net5.0\ref\Gama.Fastfood.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\bin\Debug\net5.0\Gama.Fastfood.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\bin\Debug\net5.0\Gama.Locadora.Shared.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\bin\Debug\net5.0\Gama.Locadora.Shared.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.csproj.CopyComplete
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\ref\Gama.Fastfood.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\Gama.Fastfood\obj\Debug\net5.0\Gama.Fastfood.pdb

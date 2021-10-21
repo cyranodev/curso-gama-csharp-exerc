@@ -1,0 +1,23 @@
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\bin\Debug\net5.0\Gama.Locadora.Shared.deps.json
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\bin\Debug\net5.0\Gama.Locadora.Shared.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\bin\Debug\net5.0\ref\Gama.Locadora.Shared.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\bin\Debug\net5.0\Gama.Locadora.Shared.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\Shared.csproj.AssemblyReference.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\Gama.Locadora.Shared.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\ref\Gama.Locadora.Shared.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Shared\obj\Debug\net5.0\Gama.Locadora.Shared.pdb
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\bin\Debug\net5.0\Gama.ATM.Shared.deps.json
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\bin\Debug\net5.0\Gama.ATM.Shared.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\bin\Debug\net5.0\ref\Gama.ATM.Shared.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\bin\Debug\net5.0\Gama.ATM.Shared.pdb
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\obj\Debug\net5.0\Gama.ATM.Shared.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\obj\Debug\net5.0\ref\Gama.ATM.Shared.dll
+C:\Users\u008105\Documents\curso gama\pre-prova - ATM\src\Shared\obj\Debug\net5.0\Gama.ATM.Shared.pdb

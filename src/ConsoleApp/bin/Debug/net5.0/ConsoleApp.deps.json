@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Gama.ATM": "1.0.0",
+          "Gama.ATM.Infra": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "Gama.ATM/1.0.0": {
+        "dependencies": {
+          "Gama.ATM.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Gama.ATM.dll": {}
+        }
+      },
+      "Gama.ATM.Infra/1.0.0": {
+        "dependencies": {
+          "Gama.ATM.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Gama.ATM.Infra.dll": {}
+        }
+      },
+      "Gama.ATM.Shared/1.0.0": {
+        "runtime": {
+          "Gama.ATM.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gama.ATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gama.ATM.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gama.ATM.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

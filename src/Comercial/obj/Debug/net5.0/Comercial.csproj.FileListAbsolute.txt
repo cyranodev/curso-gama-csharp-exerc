@@ -1,0 +1,15 @@
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\bin\Debug\net5.0\Gama.Locadora.Comercial.deps.json
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\bin\Debug\net5.0\Gama.Locadora.Comercial.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\bin\Debug\net5.0\ref\Gama.Locadora.Comercial.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\bin\Debug\net5.0\Gama.Locadora.Comercial.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\bin\Debug\net5.0\Gama.Locadora.Shared.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\bin\Debug\net5.0\Gama.Locadora.Shared.pdb
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Comercial.csproj.AssemblyReference.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Comercial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Comercial.AssemblyInfoInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Comercial.AssemblyInfo.cs
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Comercial.csproj.CoreCompileInputs.cache
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Comercial.csproj.CopyComplete
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Gama.Locadora.Comercial.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\ref\Gama.Locadora.Comercial.dll
+C:\Users\u008105\Documents\curso gama\gama-xp-10-2021\Gama.Locadora\src\Comercial\obj\Debug\net5.0\Gama.Locadora.Comercial.pdb

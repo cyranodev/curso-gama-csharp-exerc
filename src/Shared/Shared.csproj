@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<AssemblyName>Gama.ATM.Shared</AssemblyName>
+		<RootNamespace>Gama.ATM.Shared</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Folder Include="ValueObjects\" />
+	</ItemGroup>
+</Project>
